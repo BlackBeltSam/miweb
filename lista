@@ -1,0 +1,13 @@
+<html>
+  <head>
+  <title>una segunda pagina llamada lista</title>
+  </head>
+  <body>
+  <h1>Esto es una lista</h1>
+  <ul>
+    <li>Listado 1</li>
+    <li>Listado 2</li>
+    <li>Listado 3</li>
+  </ul>
+  </body>
+</html>
